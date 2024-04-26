@@ -1,0 +1,30 @@
+
+nav ul {
+  list-style-type: none;
+  margin-left:50px;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+}
+nav {
+    background-color: aqua;
+    border: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+form{
+    background-color: rgb(7, 100, 69);
+    padding-top: 10px;
+    padding-left: 40px;
+    margin-top: 70px;
+    margin-left: 200px;
+    margin-right:200px;
+}
